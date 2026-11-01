@@ -1,5 +1,4 @@
-[index (2).html](https://github.com/user-attachments/files/34230178/index.2.html)
-# emoro006.github.io<!DOCTYPE html>
+
 <html lang="en">
 
 <head>
